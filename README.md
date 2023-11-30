@@ -30,5 +30,6 @@
 + Реализация отсечения выпуклого многоугольника.
   
 ****Основные файлы:****
-• mainwindow.cpp • mainwindow.h
-• main.cpp
++ mainwindow.cpp
++ mainwindow.h
++ main.cpp
